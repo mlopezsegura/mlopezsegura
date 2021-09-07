@@ -3,11 +3,8 @@
 
 I am a computer scientist specialized in software engineering.
 
-I am currently working full time as a fullstack developer (Angular + .NET  + X++).
+I am currently working full time as a fullstack developer (Angular + Ionic  + .NET  + X++).
 
-I consider myself a responsible, dynamic and open to new ideas person.
-
-I am interested in developing my professional career and increasing my knowledge in the IT area.
 
 ## Want to see my personal projects?
 
