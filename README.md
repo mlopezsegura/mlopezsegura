@@ -26,7 +26,7 @@ Just go to my [repositories](https://github.com/mlopezsegura?tab=repositories)
 ## Find me at:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario_Lopez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://es.linkedin.com/in/mario-l%C3%B3pez-segura-68865512a)
-[![Web](https://img.shields.io/badge/My_Website-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mariolopezsegura.github.io)
+[![Web](https://img.shields.io/badge/My_Website-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mlopezsegura.github.io)
 
 ## Contact me:
 
