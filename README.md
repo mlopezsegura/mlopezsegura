@@ -4,7 +4,7 @@
 I am a computer scientist specialized in software engineering.
 
 I am currently working full time as a fullstack developer (Angular + Ionic  + .NET  + X++).
-
+a
 
 ## Want to see my personal projects?
 
