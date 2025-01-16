@@ -17,8 +17,9 @@ Just go to my [repositories](https://github.com/mlopezsegura?tab=repositories)
 [![Java](https://img.shields.io/badge/Java-FF001A?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 
 </br>
+[![Angular]([https://img.shields.io/badge/TypeScript-007396?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010](https://img.shields.io/badge/Angular-FF001A?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010))]()
 [![.NET Core](https://img.shields.io/badge/.NET_Core-4285F4?style=for-the-badge&logo=.net&logoColor=white&labelColor=101010)]()
-[![Angular](https://img.shields.io/badge/Angular-FF001A?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
+
 </br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![GIT](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
